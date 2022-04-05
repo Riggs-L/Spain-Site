@@ -1,0 +1,70 @@
+h1{
+    color:rgb(231, 144, 44);
+}
+
+img{
+    display: block;
+    height: 200px; width: 300px;
+}
+
+/*How do I select for children of specific elements?*/
+
+ul{
+    border:darkgoldenrod 5px outset;
+    width: 20%;
+    margin: auto;
+    padding: 0px;
+    text-align: center;
+    list-style: none;
+}
+
+ul li{
+    border: outset;
+    display: inline-block;
+}
+
+ul.Pictures{}
+
+.showoff{
+    margin: auto;
+}
+
+#pic1{
+    margin-left: 75px;
+    margin-top: 50px;
+    margin-bottom: 50px;
+    height: 500px; width: 800px;
+}
+
+#pic2{
+    margin-left: 75px;
+    margin-top: 50px;
+    margin-bottom: 50px;
+    height: 500px; width: 800px;
+}
+
+#pic3{
+    margin-left: 75px;
+    margin-top: 50px;
+    margin-bottom: 50px;
+    height: 500px; width: 800px;
+}
+
+#Las{
+    margin: auto; font-size: 30px;
+}
+
+ol li{
+    display: block;
+    margin-left: 150px;
+    margin-top: 50px;
+}
+
+#font{
+    font-size: 30px;
+}
+
+#Food{
+    height:  225px;
+    width: 300px;
+}
