@@ -60,11 +60,19 @@ ol li{
     margin-top: 50px;
 }
 
-#font{
+.font{
     font-size: 30px;
 }
 
-#Food{
-    height:  225px;
-    width: 300px;
+.Food{
+    height:  300px;
+    width: 450px;
 }
+
+.factp{
+    height: 300px;
+    width: 450px;
+}
+
+
+
